@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534776443636",
+    "project_id": "uasmobileprog-f65fe",
+    "storage_bucket": "uasmobileprog-f65fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534776443636:android:112b0f21c5beb5a72224a1",
+        "android_client_info": {
+          "package_name": "com.example.uasmobileprog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Z5QEypy1ZT_HtqlhVuFf1Hn3DPdSgBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
